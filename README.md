@@ -20,6 +20,6 @@ El flujo de trabajo incluye:
 4. **Evaluación:** Validación mediante métricas de error (RMSE / MAE).
 
 ## 📂 Estructura del Proyecto
-- `data/`: Datasets utilizados (muestras normalizadas).
-- `notebooks/`: Análisis exploratorio y entrenamiento paso a paso.
-- `scripts/`: Funciones de preprocesamiento y predicción.
+- Datasets utilizados (muestras normalizadas).
+- Análisis exploratorio y entrenamiento paso a paso.
+- Funciones de preprocesamiento y predicción.

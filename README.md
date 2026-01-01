@@ -1,4 +1,4 @@
-# 🛠️ Predicción de Vida Útil Remanente (RUL) 
+# 🛠️ Predicción de Vida Útil Remanente (RUL) en flotas CAEX 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -7,9 +7,7 @@
 Este proyecto académico implementa un modelo de **Mantenimiento Predictivo** diseñado para estimar la **Remaining Useful Life (RUL)** de equipos críticos en entornos industriales. La capacidad de predecir la vida útil remanente permite pasar de un mantenimiento reactivo a uno proactivo, optimizando costos y seguridad.
 
 ## 📌 Contexto y Valor de Negocio
-En operaciones de alta intensidad, la falla inesperada de un activo puede detener la producción. Este modelo analiza datos históricos de sensores para predecir las fallas en flotas CAEX
-<img width="1906" height="238" alt="image" src="https://github.com/user-attachments/assets/94e1de5d-02a0-406a-a21c-850743e4ee8a" />
-
+En operaciones de alta intensidad, la falla inesperada de un activo puede detener la producción. Este modelo analiza datos históricos de sensores para:
 - Anticipar fallas catastróficas.
 - Optimizar el stock de repuestos.
 - Reducir el tiempo de inactividad no programado (Downtime).
@@ -25,8 +23,3 @@ El flujo de trabajo incluye:
 - `data/`: Datasets utilizados (muestras normalizadas).
 - `notebooks/`: Análisis exploratorio y entrenamiento paso a paso.
 - `scripts/`: Funciones de preprocesamiento y predicción.
-
-## 🚀 Instalación y Uso
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
